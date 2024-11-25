@@ -1,1 +1,12 @@
-Key Insights:  Santiago was just a shepherd boy with a recurring dream of treasure . He left his comfort behind, journeying through deserts and dangers, only to discover the greatest treasure lay within himself .
+Generate Insights
+Enter your story: 
+Rocky Balboa, a small-time boxer living in Philadelphia, is struggling to make a name for himself. Known as the 'Italian Stallion,' he works as a debt collector and fights in small-time matches to get by. One day, Rocky is unexpectedly chosen by the world heavyweight champion, Apollo Creed, as his next opponent for a publicity stunt. Although Rocky is seen as an underdog with no chance of winning, he decides to take the fight seriously. With the help of his trainer Mickey and the emotional support of his girlfriend Adrian, Rocky begins an intense training regimen. On the night of the fight, Rocky shocks everyone by holding his own against Apollo, going the full 15 rounds in a grueling match. Though he loses by split decision, Rocky earns respect and proves his determination, showing that perseverance and belief in oneself can lead to personal triumph.
+
+
+Submit
+Insights:
+The story highlights perseverance and patience leading to eventual success.
+
+
+## Example output image:
+
